@@ -1,2 +1,2 @@
 # Projects
-cybersecurity tool made with python
+cybersecurity tools made with python
